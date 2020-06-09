@@ -20,8 +20,8 @@ Homework assignment to get students use to javascript in html.
 
 ## Usage
 
-[Deployed Website](https://lead81.github.io/bootstrap-html-hw2/)
-![gthw2](./assets/img/gthw2.png)
+[Deployed Website](https://lead81.github.io/javascript-hw3/)
+![gthw3](./images/gthw3.PNG)
 
 ## Credits
 
